@@ -1,0 +1,20 @@
+# youTubE-oBHOd
+
+> Актуальная версия для YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+
+youTubE-oBHOd снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации.
+
+## Страницы
+- Сайт: https://flameraagitate.github.io/youTubE-oBHOd/
+- Релиз: https://github.com/Flameraagitate/youTubE-oBHOd/releases/latest
+- Исходный код: https://github.com/Flameraagitate/youTubE-oBHOd
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.

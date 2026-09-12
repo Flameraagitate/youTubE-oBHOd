@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign
+
+Sitemap: https://flameraagitate.github.io/youTubE-oBHOd/sitemap.xml
